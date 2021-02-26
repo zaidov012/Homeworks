@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-	// homework 2 code
+	// homework 4 code
 }
