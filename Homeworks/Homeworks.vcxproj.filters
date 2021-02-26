@@ -18,5 +18,8 @@
     <ClCompile Include="Homework6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Asif Zaidov.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
