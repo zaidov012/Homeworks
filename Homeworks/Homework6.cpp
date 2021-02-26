@@ -1,6 +1,9 @@
 #include <iostream>
+#include "Student.h"
 
 int main()
 {
-  // edited from visual studio offline
+	Student st;
+	st.getF();
+	st.setF2(123);
 }
